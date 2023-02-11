@@ -1,3 +1,4 @@
 displayName = Player Light
 author = RedRam
 version = 0.1
+homepage = https://github.com/RedRam567/PlayerLightMod
