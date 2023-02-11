@@ -1,0 +1,6 @@
+obj/
+bin/
+.vscode/
+
+# KDE Dolphin folder settings
+.directory

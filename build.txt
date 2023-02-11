@@ -1,0 +1,3 @@
+displayName = Player Light
+author = RedRam
+version = 0.1
