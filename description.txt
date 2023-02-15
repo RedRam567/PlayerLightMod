@@ -1,4 +1,5 @@
 Adds a dim light around the player, like the one mobile Terraria used to have.
+test
 [hr]
 [h1]Settings[\h1]
 [list]
